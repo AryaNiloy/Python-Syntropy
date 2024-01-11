@@ -3,8 +3,8 @@ inv_qua = [400, 788, 988, 624]
 price = [100000, 1000, 45000, 20]
 cart = []
 def view_inv():
-    for item in inven:
-        print(item)
+    for item, item_price in zip(inven, price):
+        print(f"{item}: TK{item_price}")
 def add_item():
     n = int(input("How many items you want to add? "))
     for i in range(1, n + 1):
