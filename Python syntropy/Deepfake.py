@@ -1,0 +1,4 @@
+"""Deepfake are Ai generated media that are created using deep learning techniques. Deepfake is derived from "deep learning" and "fake".
+It uses Generative Advarsarial Networks to create realistic IMAGE,AUDIO and VIDEO.
+It works in two main steps : Training and generation.During training it learns from a vast database and finds patterns and analyze them.The generator creates fake content. There is a discriminator that compares betwwen original and fake content and tries to create such content where discriminator finds to differentiate between original and fake. 
+Deepfake can be helpful if utiliozed in proper ways by reducing the labour of people. But nowadays it's being used in harassing people and cyber crimes."""
