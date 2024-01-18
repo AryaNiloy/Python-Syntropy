@@ -1,0 +1,17 @@
+{
+    "1": {
+        "name": "Computer",
+        "price": 80000,
+        "quantity": 50
+    },
+    "2": {
+        "name": "Bike",
+        "price": 100000,
+        "quantity": 27
+    },
+    "3": {
+        "name": "Sweater",
+        "price": 900,
+        "quantity": 40
+    }
+}
