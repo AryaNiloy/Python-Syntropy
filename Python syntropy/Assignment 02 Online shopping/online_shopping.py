@@ -1,4 +1,4 @@
-from inventory import load_inventory, save_inventory, add_product, update_stock
+from inventory import load_inventory, save_inventory
 from shopping_cart import add_to_cart, view_cart
 from payment import process_payment
 
